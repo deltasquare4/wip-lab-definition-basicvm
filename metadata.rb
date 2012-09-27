@@ -1,5 +1,5 @@
-maintainer "Radim Marek"
-maintainer_email "radim@10xengineer.me"
+maintainer "Rakshit Menpara"
+maintainer_email "deltasquare4@gmail.com"
 
 use "TenxLabs::ChefHandler"
 
